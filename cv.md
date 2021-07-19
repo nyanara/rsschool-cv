@@ -31,3 +31,4 @@ http://nyanara.github.io/
 # Other skills
 1. Intermediate english, native-level russian, intermediate turkish
 2. MS Office (teapot level)
+3. Playing Guitar Hero 3 like a boss.
