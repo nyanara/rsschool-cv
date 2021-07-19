@@ -1,5 +1,6 @@
 # CV
 ## Name: Nikolay Matkhanov
+![photo](https://cdn.shopify.com/s/files/1/1018/7517/files/fat_cat_66c8fd4d-d872-4ac7-9ae0-0a56ac8b48e9_large.png)
 ## Age: 34
 ## Contact info: redwheeleye@gmail.com
 
